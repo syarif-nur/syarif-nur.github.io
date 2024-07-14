@@ -23,7 +23,7 @@ resume_contact_address:         "-"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a software developer, primarily focused on building web applications using Laravel. Recently, I have expanded my skill set to include mobile app development, utilizing Flutter for cross-platform app development and Android Kotlin for native Android applications. My expertise lies in integrating Laravel as the backend for these mobile applications, ensuring robust and efficient communication between the frontend and backend systems. I am passionate about continuously learning and exploring new technologies, with a keen interest in staying updated on the latest advancements in software development. My goal is to leverage my experience in Laravel and mobile app development to create innovative and user-friendly solutions for a diverse range of projects.</p>"
+resume_header_intro: "<p>I am a software engineer with expertise in creating applications using Flutter for cross-platform development, Kotlin for native Android, and SwiftUI for native iOS. I utilize Laravel for backend development, ensuring robust and efficient communication between frontend and backend systems. As a quick learner, I am adept at adapting to new technologies and methodologies, enabling me to deliver high-quality, user-friendly mobile applications that meet diverse project needs.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
